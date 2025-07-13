@@ -32,7 +32,7 @@ The goal of this project was to build and train a deep learning model capable of
 - **Core Libraries:** **TensorFlow 2.10**, Keras, NumPy, Matplotlib, Pillow
 - **Model Architecture:** **U-Net**, a convolutional neural network designed for fast and precise image segmentation.
 - **Development Environment:** Jupyter Notebook, VS Code, Conda for environment management.
-- **Dataset:** The project uses the "Massachusetts Buildings Dataset" from **[Kaggle](https://www.kaggle.com/datasets/maggotfish/massachusetts-buildings-dataset)**.
+- **Dataset:** The project uses the "Massachusetts Buildings Dataset" from **[Kaggle](https://www.kaggle.com/datasets/tekbahadurkshetri/building-mapping)**.
 
 ---
 
