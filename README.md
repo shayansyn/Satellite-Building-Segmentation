@@ -12,7 +12,7 @@ Below is a sample result from the test set, showing the original satellite image
 
 | Original Satellite Image | Ground Truth Mask | Predicted Mask |
 | :---: | :---: | :---: |
-| <img src="./results/example_0_original.png" width="200"/> | <img src="./results/example_0_ground_truth.png" width="200"/> | <img src="./results/example_0_predicted.png" width="200"/> |
+| <img src="./results/example_3_original.png" width="200"/> | <img src="./results/example_3_ground_truth.png" width="200"/> | <img src="./results/example_3_predicted.png" width="200"/> |
 
 ---
 
